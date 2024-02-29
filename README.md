@@ -1,5 +1,7 @@
 # Price Prediction for Microsoft Stock
 #### by Alyssa Cullinan, Jacob Dolinsky, Jian Qiang Liu, Shubhangi Bidkar, Shunjia Liu
+![stock banner](https://github.com/AlyssaCullinan/stock_prediction/assets/141466633/f7ad81e5-2c08-4bed-a6a7-5a255cc37cd9)
+
 
 ## Overview
 In this project we used Machine Learning with several techniques and model types to predict the Microsoft (MSFT) stock price based on 5 years of historical data.  
