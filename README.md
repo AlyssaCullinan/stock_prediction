@@ -1,4 +1,4 @@
-# Price Prediction for Microsoft Stock
+# Price Direction Prediction for Microsoft Stock
 #### by Alyssa Cullinan, Jacob Dolinsky, Jian Qiang Liu, Shubhangi Bidkar, Shunjia Liu
 ![Stock price direction prediction](https://github.com/AlyssaCullinan/stock_prediction/assets/141466633/7bdd1993-0795-49d1-bb1a-796b769645f6)
 
