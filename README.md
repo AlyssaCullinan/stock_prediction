@@ -11,7 +11,15 @@ Microsoft Corporation is an American multinational technology corporation headqu
 
 In the first part of the project we conducted exploratory analysis for the adjusted stock price, volume, and percent change overtime using pandas and Plotly libraries.
 
+
 The second part was Machine Learning analysis that included data preparation, model fitting and evaluation.
+
+![image](https://github.com/user-attachments/assets/9f69a7d7-18d7-4d0e-a149-5a17b90315e7)
+
+![image](https://github.com/user-attachments/assets/1a5f9071-daa6-4d36-bd1e-d22a14eb9123)
+
+![image](https://github.com/user-attachments/assets/3f4852d2-ffc4-453d-b601-b705b3e66f37)
+
 
 ## Data Source
 We used the Tiingo Web API to access historical stock market data. Tiingo is an Enterprise-Grade Financial Markets API with both raw and adjusted prices. The Tiingo database gives you access to one of the most expansive data sets available for US. 
